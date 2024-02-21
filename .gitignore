@@ -1,0 +1,5 @@
+first_package/build/
+first_package/.vscode/*
+first_package/log/*
+first_package/install/*
+first_package/build/*
